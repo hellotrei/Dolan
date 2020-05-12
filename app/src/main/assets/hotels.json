@@ -1,0 +1,86 @@
+{
+  "hotels": [
+    {
+      "name": "Candi Borobudur",
+      "ratings": "4.4",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "Wisata Candi",
+      "description": "Candi Borobudur dibangun dengan gaya Mandala yang mencerminkan alam semesta dalam kepercayaan Buddha. Struktur bangunan candi ini berbentuk kotak dengan empat pintu masuk dan titik pusat berbentuk lingkaran. Apabila dilihat dari luar hingga ke dalam, candi ini terbagi menjadi dua bagian yakni alam dunia yang terbagi di bagian luar, dan alam Nirwana di bagian pusat.",
+      "imageUrl": "https://cdn2.tstatic.net/tribunnews/foto/bank/images/candi-borobudur-jawa-tengah.jpg"
+    },
+    {
+      "name": "Candi Prambanan",
+      "ratings": "4.7",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "Wisata Candi",
+      "description": "Candi Rara Jonggrang atau lara jongrang yang terletak di Prambanan adalah kompleks candi Hindu Terbesar di Indonesia candi ini terletak di Pulai Jawa, kurang lebih 20 km timur Yogyakarta, 40 km barat Surakarta dan 120 km selatan semarang persis di perbatasan antara provinsi Jawa tengah dan Daerah Istimewa Yogyakarta. Candi Rara Jonggrang terletak di Desa Prambanan yang wilayahnya dibagi antar Kabupaten Sleman dan Klaten.",
+      "imageUrl": "https://www.adventuretravel.co.id/uploads/9/8/4/1/98413240/prambanan-sunset_orig.jpg"
+    },
+    {
+      "name": "Malioboro",
+      "ratings": "5.0",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "Wisata Malam",
+      "description": "Jalan Malioboro merupakan kawasan jalan yang membentang dari Tugu Yogyakarta hingga perempatan Kantor Pos Yogyakarta.\n\nSelain menjadi area belanja, Malioboro juga menyimpan tempat-tempat bersejarah, seperti Benteng Vredeburg, Stasiun Tugu, Gedung Agung, Monumen Serangan Oemoem 1 Maret, serta Pasar Beringharjo.",
+      "imageUrl": "https://www.beritainspiratif.com/wp-content/uploads/2019/05/IMG-20190516-WA0015_500x300.jpg"
+    },
+    {
+      "name": "Tugu Yogyakarta",
+      "ratings": "4.0",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "Wisata Malam",
+      "description": "Tugu atau monumen yang sering dipakai sebagai simbol atau lambang dari kota Yogyakarta. Tugu ini dibangun oleh pemerintah Belanda setelah tugu sebelumnya runtuh akibat gempa yang terjadi waktu itu. Tugu sebelumnya yang bernama Tugu Golong-Gilig dibangun oleh Hamengkubuwana I, pendiri kraton Yogyakarta. Tugu yang terletak di perempatan Jalan Jenderal Sudirman dan Jalan Margo Utomo ini, mempunyai nilai simbolis dan merupakan garis yang bersifat magis menghubungkan laut selatan, kraton Jogja dan gunung Merapi. Pada saat melakukan meditasi, konon Sultan Yogyakarta pada waktu itu menggunakan tugu ini sebagai patokan arah menghadap puncak gunung Merapi.",
+      "imageUrl": "https://sewabusbandungmurah.com/wp-content/uploads/2019/01/6-kabarwisata.jpg"
+    },
+    {
+      "name": "Taman Sari",
+      "ratings": "4.5",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "Wisata Sejarah",
+      "description": "Saat ini, Taman Sari lebih dikenal dengan kolam pemandiannya. Namun, di zaman dahulu kompleks ini terdiri atas 57 bangunan yang tersebar di area seluas 10 kilometer persegi. Wow, luas sekali! Saking luasnya, kompleks ini bahkan dibagi menjadi empat bagian. Nah, bagian kompleks yang dibuka untuk umum sebagai tempat wisata adalah bagian kedua. Bagian-bagian kompleks yang lain sudah dialihfungsikan atau hancur. Wah, sayang sekali, ya.",
+      "imageUrl": "https://antarejatour.com/wp-content/uploads/2018/08/Pemandian-Taman-Sari-sumber-ig-karina_triasari.jpg"
+    },
+    {
+      "name": "Hotel 101",
+      "ratings": "4.5",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "345.000",
+      "description": "Jl. Margo Utomo No.103, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55232•(0274) 2920101",
+      "imageUrl": "https://origin.pegipegi.com/jalan/images/pict1L/Y6/Y977816/X977816037.jpg"
+    }
+  ,
+    {
+      "name": "Hotel Harper Mangkubumi",
+      "ratings": "4.5",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "351.000",
+      "description": "Jl. P. Mangkubumi No.52, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55232•(0274) 2920008",
+      "imageUrl": "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/10007197-4069x2712-FIT_AND_TRIM-dbc7449cfb74368e6158b7647b5c8ab4.jpeg?tr=q-40,c-at_max,w-740,h-500&_src=imagekit"
+    }
+  ,
+    {
+      "name": "Hotel Tugu Yogyakarta",
+      "ratings": "4.5",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "247.000",
+      "description": "Jl. Pangeran Diponegoro No.99, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231•(0274) 2922939",
+      "imageUrl": "https://ik.imagekit.io/tvlk/apr-asset/dgXfoyh24ryQLRcGq00cIdKHRmotrWLNlvG-TxlcLxGkiDwaUSggleJNPRgIHCX6/hotel/asset/10022306-1476x1210-FIT_AND_TRIM-64c82467ca0fcfb57e4b037ad53f534d.jpeg?tr=q-40,c-at_max,w-740,h-500&_src=imagekit"
+    }
+  ]
+}
