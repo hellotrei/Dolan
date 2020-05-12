@@ -17,7 +17,6 @@
         android:fontFamily="monospace"
         android:id="@+id/emptyRecommendationPlaceHolder"
         android:layout_centerInParent="true"
-        android:text="Tidak ada Rekomendasi"
         android:gravity="center"
         android:visibility="invisible"
         android:textSize="18sp"/>
